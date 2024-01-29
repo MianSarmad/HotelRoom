@@ -1,5 +1,6 @@
 This is a Hotel Room
 
+payment processing scenrio
 
 book room through online booking system
 
